@@ -31,7 +31,7 @@ O projeto consiste essencialmente em um gerenciador de  academia, visando o dese
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/ProgRS/Acerta
+$ git clone https://github.com/ProgRS/ControleAcademia
 # Entrar no diretório 
 $ cd Academia
 # Instalar as dependências
