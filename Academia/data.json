@@ -1,0 +1,106 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1524594152303-9fd13543fe6e?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "name": "Luis Fernando Corrêa Trindade",
+      "email": "lfernandotc@hotmail.com",
+      "birth": 633830400000,
+      "gender": "M",
+      "blood": "AB+",
+      "weight": "77",
+      "height": "185",
+      "id": 1
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1524594152303-9fd13543fe6e?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "name": "Paulo",
+      "email": "lfernandotc@hotmail.com",
+      "birth": 842140800000,
+      "gender": "M",
+      "blood": "A+",
+      "weight": "88",
+      "height": "2",
+      "id": 2
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1524594152303-9fd13543fe6e?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "name": "Carloz",
+      "email": "lfernandotc@hotmail.com",
+      "birth": 919468800000,
+      "gender": "M",
+      "blood": "B-",
+      "weight": "88",
+      "height": "188",
+      "id": 3
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Luis Fernando Corrêa Trindade",
+      "email": "lfernandotc@hotmail.com",
+      "birth": 925862400000,
+      "gender": "M",
+      "blood": "A-",
+      "weight": "22",
+      "height": "66",
+      "id": 4
+    },
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Fernanda",
+      "email": "fernanda@gymmanager.com",
+      "birth": 318297600000,
+      "gender": "F",
+      "blood": "AB+",
+      "weight": "65",
+      "height": "168",
+      "id": 5
+    }
+  ],
+  "instructors": [
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1524594152303-9fd13543fe6e?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      "name": "Fernando",
+      "birth": 570326400000,
+      "gender": "M",
+      "services": "musculação,aeróbica",
+      "created_at": 1599505479882
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "João",
+      "birth": 973036800000,
+      "gender": "M",
+      "services": "musculação,aeróbica",
+      "created_at": 1599512440627
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Carloz",
+      "birth": 825465600000,
+      "gender": "M",
+      "services": "Aeróbica",
+      "created_at": 1599653463763
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Jones",
+      "birth": 935798400000,
+      "gender": "M",
+      "services": "Aeróbica",
+      "created_at": 1599658281741
+    },
+    {
+      "id": 5,
+      "avatar_url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Luis Fernando Corrêa Trindade",
+      "birth": 635904000000,
+      "gender": "M",
+      "services": "Musculação",
+      "created_at": 1599684431593
+    }
+  ]
+}
