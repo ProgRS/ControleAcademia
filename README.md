@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="public/logo.png" width="150" height="80">
+    <img src="Academia/public/logo.png" width="150" height="80">
 
 </h1>
 
